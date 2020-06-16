@@ -5,3 +5,5 @@ Beginners with no previous programming experience looking to obtain the skills t
 Anyone looking to to build the minimum Python programming skills necessary as a pre-requisites for moving into machine learning, data science, and artificial intelligence.
 Existing programmers who want to improve their career options by learning the Python programming language.
 If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this notebook is probably not for you
+### Visit to blogging website for more stuff : 
+#### capablemachine.wordpress.com
