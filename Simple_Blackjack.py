@@ -1,6 +1,8 @@
-# Create a function called DECK
-# Suit: H S C D - Ranks : A, 2 - 9, T J Q K
-# Return shuffled deck
+'''
+Create a function called DECK
+Suit: H S C D - Ranks : A, 2 - 9, T J Q K
+Return shuffled deck
+'''
 
 
 from random import shuffle
