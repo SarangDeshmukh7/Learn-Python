@@ -1,7 +1,7 @@
 # Python for Beginners
 
 <img 
-src = "https://i2.wp.com/myarshan.com/wp-content/uploads/2019/02/logo.png?resize=768%2C224&ssl=1"/>
+src = "https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg"/>
 
 
 If you want to get started programming in Python, you are going to LOVE this notebook! This notebook is designed to fully immerse you in the Python language, so it is great for both beginners and veteran programmers! Learn Python as I takes you through the basics of programming to advanced Python concepts.
