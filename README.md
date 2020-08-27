@@ -18,6 +18,5 @@ number.
 8. [Rock_paper_Scissors.py](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Rock_paper_Scissors.py) - Two-player Rock-Paper-Scissors game.
 9. [Simple_Blackjack.py](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Simple_Blackjack.py) - Game of  cards.
 10. [Tic _Tac _Toe.py](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Tic%20_Tac%20_Toe.py) - Tic Tac Toe game for two players.
-### Visit to my blogging website for more stuff : 
-https://capablemachine.com/
 
+###  I will try to add more problems in near future. 
