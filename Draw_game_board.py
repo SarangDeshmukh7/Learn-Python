@@ -1,6 +1,4 @@
 '''
-This exercise is Part 1 of 4 of the Tic Tac Toe exercise series.
-The other exercises are: Part 2, Part 3, and Part 4.
 Time for some fake graphics! Let’s say we want to draw game boards
 that look like this:
  --- --- --- 
