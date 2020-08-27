@@ -1,4 +1,3 @@
-# Python for Beginners
 
 <img 
 src = "https://myarshan.com/wp-content/uploads/2019/02/logo.png"/>
