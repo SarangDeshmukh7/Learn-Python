@@ -19,4 +19,4 @@ number.
 9. [Simple_Blackjack.py](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Simple_Blackjack.py) - Game of  cards.
 10. [Tic _Tac _Toe.py](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Tic%20_Tac%20_Toe.py) - Tic Tac Toe game for two players.
 
-###  I will try to add more problems in near future. 
+### 🔭 I will try to add more problems in near future. 
