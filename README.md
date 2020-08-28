@@ -3,7 +3,6 @@
 src = "https://myarshan.com/wp-content/uploads/2019/02/logo.png"/>
 
 
-If you want to get started programming in Python, you are going to LOVE this notebook! This notebook is designed to fully immerse you in the Python language, so it is great for both beginners and veteran programmers.
 
 ### Table of content:
 - [Exercise_1](https://github.com/SarangDeshmukh7/Python-for-Beginners/blob/master/Exercise_1.ipynb) - Genral python examples from basics.
