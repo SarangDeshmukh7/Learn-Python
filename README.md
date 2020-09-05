@@ -24,4 +24,4 @@ number.
 - Existing programmers who want to improve their career options by learning the Python programming language.
 - If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this notebook is probably not for you
 
-### 🔭 I will try to add more problems in near future. 
+### 🔭 I will try to add more examples in near future. 
