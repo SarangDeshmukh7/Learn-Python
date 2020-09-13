@@ -1,6 +1,6 @@
 
 <img 
-src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-png-transparent-python-logopng-images-pluspng_1024-500.png" width = "400" height ="100"/>
+src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-png-transparent-python-logopng-images-pluspng_1024-500.png" width = "400" height ="200"/>
 
 
 
