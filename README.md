@@ -1,7 +1,6 @@
 
 <img 
-src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-png-transparent-python-logopng-images-pluspng_1024-500.png" width = "400" height ="170"/><img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
-
+src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-png-transparent-python-logopng-images-pluspng_1024-500.png" width = "400" height ="170"/>
 
 
 ### Table of content:
