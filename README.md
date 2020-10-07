@@ -21,6 +21,6 @@ number.
 - Beginners with no previous programming experience looking to obtain the skills to get their first programming job.
 - Anyone looking to to build the minimum Python programming skills necessary as a pre-requisites for moving into machine learning, data science, and artificial intelligence.
 - Existing programmers who want to improve their career options by learning the Python programming language.
-- If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this notebook is probably not for you
+- If you are an expert Python programmer with extensive knowledge, and many years’ experience, then this notebook is probably not for you.
 
 ### 🔭 I will try to add more examples in near future. 
