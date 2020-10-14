@@ -8,7 +8,7 @@ src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-pn
 - Exercise_2- Create matrix game board.
 - Exercise_3- Track a birthday of your friend.
 - Exercise_4- Guess a name until the player gets the word.
-- Exercise_5]- Ask the user to guess the
+- Exercise_5- Ask the user to guess the
 number.
 - Exercise_6- Ask the program to guess the
 number.
