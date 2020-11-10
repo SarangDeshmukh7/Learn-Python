@@ -4,7 +4,7 @@ src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-pn
 
 
 ### Table of content:
-- Exercise_1- Genral python examples from basics.
+- Exercise_1- Random python examples from basics.
 - Exercise_2- Create matrix game board.
 - Exercise_3- Track a birthday of your friend.
 - Exercise_4- Guess a name until the player gets the word.
