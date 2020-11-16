@@ -4,7 +4,7 @@ src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-pn
 
 
 ### Table of content:
-- Python.ipynb- Random python examples from basics.
+- Python.ipynb- Random 100+ python examples from basics.
 - Games
   - Exercise_2- Create matrix game board.
   - Exercise_3- Track a birthday of your friend.
