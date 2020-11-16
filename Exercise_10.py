@@ -125,4 +125,3 @@ while True:
 
     if not replay():
         break
-© 2020 GitHub, Inc.
