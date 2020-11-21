@@ -3,7 +3,7 @@
 src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-png-transparent-python-logopng-images-pluspng_1024-500.png" width = "400" height ="170"/>
 
 
-### Table of content:
+### Table of content:-
 - Python_Exercise_1.ipynb- Random 100+ python examples from basics.
 - Games
   - Exercise_2- Create matrix game board.
@@ -16,7 +16,7 @@ src = "https://cdn.clipart.email/75b18e140c5c4db346a3adcc12f06aa5_python-logo-pn
   - Exercise_9- Game of  cards.
   - Exercise_10- Tic Tac Toe game for two players.
 
-### Who this notebook is for:
+### Who this notebook is for:-
 - Beginners with no previous programming experience looking to obtain the skills to get their first programming job.
 - Anyone looking to to build the minimum Python programming skills necessary as a pre-requisites for moving into machine learning, data science, and artificial intelligence.
 - Existing programmers who want to improve their career options by learning the Python programming language.
